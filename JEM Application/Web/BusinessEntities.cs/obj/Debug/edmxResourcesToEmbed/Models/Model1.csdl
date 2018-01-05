@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Jem96DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="dias_semana">
+    <Key>
+      <PropertyRef Name="id_dia" />
+    </Key>
+    <Property Name="id_dia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dia" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_home" Type="Int32" />
+    <Property Name="id_grupo" Type="Int32" />
+    <NavigationProperty Name="grupo" Relationship="Self.FK_dias_semana_grupo" FromRole="dias_semana" ToRole="grupo" />
+    <NavigationProperty Name="home" Relationship="Self.FK_dias_semana_home" FromRole="dias_semana" ToRole="home" />
+  </EntityType>
+  <EntityType Name="empleado">
+    <Key>
+      <PropertyRef Name="dni_empleado" />
+    </Key>
+    <Property Name="dni_empleado" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellido" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha_de_nacimiento" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="sexo" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="id_sector" Type="Int32" />
+    <Property Name="password" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="piso" Type="Int32" />
+    <NavigationProperty Name="piso1" Relationship="Self.FK_empleado_piso" FromRole="empleado" ToRole="piso" />
+    <NavigationProperty Name="sector" Relationship="Self.FK_empleado_sector" FromRole="empleado" ToRole="sector" />
+    <NavigationProperty Name="grupo_empleado" Relationship="Self.FK_grupo_empleado_empleado" FromRole="empleado" ToRole="grupo_empleado" />
+    <NavigationProperty Name="home" Relationship="Self.FK_home_empleado" FromRole="empleado" ToRole="home" />
+  </EntityType>
+  <EntityType Name="grupo">
+    <Key>
+      <PropertyRef Name="id_grupo" />
+    </Key>
+    <Property Name="id_grupo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_grupo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="estado" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="dias_semana" Relationship="Self.FK_dias_semana_grupo" FromRole="grupo" ToRole="dias_semana" />
+    <NavigationProperty Name="grupo_empleado" Relationship="Self.FK_grupo_empleado_grupo" FromRole="grupo" ToRole="grupo_empleado" />
+  </EntityType>
+  <EntityType Name="grupo_empleado">
+    <Key>
+      <PropertyRef Name="id_grupo_empleado" />
+    </Key>
+    <Property Name="id_grupo_empleado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_grupo" Type="Int32" />
+    <Property Name="dni_empleado" Type="Int32" />
+    <NavigationProperty Name="empleado" Relationship="Self.FK_grupo_empleado_empleado" FromRole="grupo_empleado" ToRole="empleado" />
+    <NavigationProperty Name="grupo" Relationship="Self.FK_grupo_empleado_grupo" FromRole="grupo_empleado" ToRole="grupo" />
+  </EntityType>
+  <EntityType Name="home">
+    <Key>
+      <PropertyRef Name="id_home" />
+    </Key>
+    <Property Name="id_home" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="estado" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="dias_semana" Relationship="Self.FK_dias_semana_home" FromRole="home" ToRole="dias_semana" />
+    <NavigationProperty Name="empleado" Relationship="Self.FK_home_empleado" FromRole="home" ToRole="empleado" />
+  </EntityType>
+  <EntityType Name="piso">
+    <Key>
+      <PropertyRef Name="piso1" />
+    </Key>
+    <Property Name="piso1" Type="Int32" Nullable="false" />
+    <Property Name="oficina" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="empleado" Relationship="Self.FK_empleado_piso" FromRole="piso" ToRole="empleado" />
+    <NavigationProperty Name="sector" Relationship="Self.FK_sector_piso" FromRole="piso" ToRole="sector" />
+  </EntityType>
+  <EntityType Name="sector">
+    <Key>
+      <PropertyRef Name="id_sector" />
+    </Key>
+    <Property Name="id_sector" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_sector" Type="String" MaxLength="70" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="piso" Type="Int32" />
+    <NavigationProperty Name="empleado" Relationship="Self.FK_empleado_sector" FromRole="sector" ToRole="empleado" />
+    <NavigationProperty Name="piso1" Relationship="Self.FK_sector_piso" FromRole="sector" ToRole="piso" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_dias_semana_grupo">
+    <End Role="grupo" Type="Self.grupo" Multiplicity="0..1" />
+    <End Role="dias_semana" Type="Self.dias_semana" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="grupo">
+        <PropertyRef Name="id_grupo" />
+      </Principal>
+      <Dependent Role="dias_semana">
+        <PropertyRef Name="id_grupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dias_semana_home">
+    <End Role="home" Type="Self.home" Multiplicity="0..1" />
+    <End Role="dias_semana" Type="Self.dias_semana" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="home">
+        <PropertyRef Name="id_home" />
+      </Principal>
+      <Dependent Role="dias_semana">
+        <PropertyRef Name="id_home" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_empleado_piso">
+    <End Role="piso" Type="Self.piso" Multiplicity="0..1" />
+    <End Role="empleado" Type="Self.empleado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="piso">
+        <PropertyRef Name="piso1" />
+      </Principal>
+      <Dependent Role="empleado">
+        <PropertyRef Name="piso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_empleado_sector">
+    <End Role="sector" Type="Self.sector" Multiplicity="0..1" />
+    <End Role="empleado" Type="Self.empleado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sector">
+        <PropertyRef Name="id_sector" />
+      </Principal>
+      <Dependent Role="empleado">
+        <PropertyRef Name="id_sector" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_grupo_empleado_empleado">
+    <End Role="empleado" Type="Self.empleado" Multiplicity="0..1" />
+    <End Role="grupo_empleado" Type="Self.grupo_empleado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="empleado">
+        <PropertyRef Name="dni_empleado" />
+      </Principal>
+      <Dependent Role="grupo_empleado">
+        <PropertyRef Name="dni_empleado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_home_empleado">
+    <End Role="empleado" Type="Self.empleado" Multiplicity="1" />
+    <End Role="home" Type="Self.home" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="empleado">
+        <PropertyRef Name="dni_empleado" />
+      </Principal>
+      <Dependent Role="home">
+        <PropertyRef Name="id_home" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_grupo_empleado_grupo">
+    <End Role="grupo" Type="Self.grupo" Multiplicity="0..1" />
+    <End Role="grupo_empleado" Type="Self.grupo_empleado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="grupo">
+        <PropertyRef Name="id_grupo" />
+      </Principal>
+      <Dependent Role="grupo_empleado">
+        <PropertyRef Name="id_grupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sector_piso">
+    <End Role="piso" Type="Self.piso" Multiplicity="0..1" />
+    <End Role="sector" Type="Self.sector" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="piso">
+        <PropertyRef Name="piso1" />
+      </Principal>
+      <Dependent Role="sector">
+        <PropertyRef Name="piso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Jem96DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="dias_semana" EntityType="Self.dias_semana" />
+    <EntitySet Name="empleado" EntityType="Self.empleado" />
+    <EntitySet Name="grupo" EntityType="Self.grupo" />
+    <EntitySet Name="grupo_empleado" EntityType="Self.grupo_empleado" />
+    <EntitySet Name="home" EntityType="Self.home" />
+    <EntitySet Name="piso" EntityType="Self.piso" />
+    <EntitySet Name="sector" EntityType="Self.sector" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_dias_semana_grupo" Association="Self.FK_dias_semana_grupo">
+      <End Role="grupo" EntitySet="grupo" />
+      <End Role="dias_semana" EntitySet="dias_semana" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dias_semana_home" Association="Self.FK_dias_semana_home">
+      <End Role="home" EntitySet="home" />
+      <End Role="dias_semana" EntitySet="dias_semana" />
+    </AssociationSet>
+    <AssociationSet Name="FK_empleado_piso" Association="Self.FK_empleado_piso">
+      <End Role="piso" EntitySet="piso" />
+      <End Role="empleado" EntitySet="empleado" />
+    </AssociationSet>
+    <AssociationSet Name="FK_empleado_sector" Association="Self.FK_empleado_sector">
+      <End Role="sector" EntitySet="sector" />
+      <End Role="empleado" EntitySet="empleado" />
+    </AssociationSet>
+    <AssociationSet Name="FK_grupo_empleado_empleado" Association="Self.FK_grupo_empleado_empleado">
+      <End Role="empleado" EntitySet="empleado" />
+      <End Role="grupo_empleado" EntitySet="grupo_empleado" />
+    </AssociationSet>
+    <AssociationSet Name="FK_home_empleado" Association="Self.FK_home_empleado">
+      <End Role="empleado" EntitySet="empleado" />
+      <End Role="home" EntitySet="home" />
+    </AssociationSet>
+    <AssociationSet Name="FK_grupo_empleado_grupo" Association="Self.FK_grupo_empleado_grupo">
+      <End Role="grupo" EntitySet="grupo" />
+      <End Role="grupo_empleado" EntitySet="grupo_empleado" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sector_piso" Association="Self.FK_sector_piso">
+      <End Role="piso" EntitySet="piso" />
+      <End Role="sector" EntitySet="sector" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

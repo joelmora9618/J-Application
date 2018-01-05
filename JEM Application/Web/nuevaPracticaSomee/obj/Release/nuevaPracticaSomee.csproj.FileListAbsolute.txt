@@ -1,0 +1,263 @@
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\ApplicationInsights.config
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csc.exe
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Collections.Immutable.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Reflection.Metadata.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\vbc.exe
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\VBCSCompiler.exe
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\VBCSCompiler.exe.config
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\nuevaPracticaSomee.dll.config
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\nuevaPracticaSomee.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\nuevaPracticaSomee.pdb
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Antlr3.Runtime.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.SqlServer.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.Agent.Intercept.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.DependencyCollector.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.Web.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.WindowsServer.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.ApplicationInsights.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Core.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Cookies.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Facebook.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Google.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.OAuth.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Twitter.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Web.Infrastructure.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Newtonsoft.Json.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Owin.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Net.Http.Formatting.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Helpers.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Owin.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.WebHost.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Mvc.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Optimization.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Razor.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Deployment.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Razor.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\WebGrease.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.DependencyCollector.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.Web.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.WindowsServer.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.ApplicationInsights.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Newtonsoft.Json.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Net.Http.Formatting.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Helpers.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.WebHost.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Mvc.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Optimization.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Razor.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Deployment.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Razor.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Antlr3.Runtime.pdb
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.SqlServer.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Core.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Facebook.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Cookies.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.OAuth.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Google.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Twitter.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Owin.xml
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\obj\Release\nuevaPracticaSomee.csprojResolveAssemblyReference.cache
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\obj\Release\nuevaPracticaSomee.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\obj\Release\nuevaPracticaSomee.pdb
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csc.exe.config
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csc.rsp
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csi.exe
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csi.exe.config
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csi.rsp
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.AppContext.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Console.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Diagnostics.Process.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.Compression.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.FileSystem.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.Pipes.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.AccessControl.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Claims.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Principal.Windows.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Threading.Thread.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.ValueTuple.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.XPath.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\vbc.exe.config
+C:\De la facu\Practicas ASP.NET MVC 5\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\vbc.rsp
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\ApplicationInsights.config
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csc.exe
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csc.exe.config
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csc.rsp
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csi.exe
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csi.exe.config
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\csi.rsp
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.AppContext.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Collections.Immutable.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Console.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Diagnostics.Process.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.Compression.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.FileSystem.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.IO.Pipes.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.AccessControl.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Claims.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Threading.Thread.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.ValueTuple.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.XPath.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\vbc.exe
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\vbc.exe.config
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\vbc.rsp
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\VBCSCompiler.exe
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\roslyn\VBCSCompiler.exe.config
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\nuevaPracticaSomee.dll.config
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\nuevaPracticaSomee.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\nuevaPracticaSomee.pdb
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Antlr3.Runtime.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.SqlServer.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.DependencyCollector.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.Web.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.WindowsServer.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.ApplicationInsights.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Google.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Web.Infrastructure.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Newtonsoft.Json.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Owin.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Net.Http.Formatting.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Helpers.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Owin.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.WebHost.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Mvc.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Optimization.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Razor.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Deployment.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Razor.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\WebGrease.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Antlr3.Runtime.pdb
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.DependencyCollector.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.Web.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AI.WindowsServer.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.ApplicationInsights.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Google.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Newtonsoft.Json.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Net.Http.Formatting.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Helpers.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.WebHost.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Mvc.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Optimization.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Razor.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Deployment.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.WebPages.Razor.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\EntityFramework.SqlServer.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Owin.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\obj\Release\nuevaPracticaSomee.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\obj\Release\nuevaPracticaSomee.pdb
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\obj\Release\nuevaPracticaSomee.csprojResolveAssemblyReference.cache
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\log4net.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Cors.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Cors.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\log4net.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Cors.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Tracing.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\System.Web.Http.Tracing.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Cryptography.Internal.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\SshNet.Security.Cryptography.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\Microsoft.AspNet.Cryptography.Internal.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\nuevaPracticaSomee\bin\SshNet.Security.Cryptography.xml

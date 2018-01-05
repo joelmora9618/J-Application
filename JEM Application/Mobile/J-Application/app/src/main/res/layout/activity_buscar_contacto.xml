@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_buscar_contacto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.jmora.webservicesoap.ui.activities.BuscarContacto">
+
+    <EditText
+        android:id="@+id/tvBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese el DNI del usuario"/>
+
+    <LinearLayout
+        android:id="@+id/llVistaAtr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nombre:"
+            android:paddingLeft="16dp"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/textView1"
+            android:textSize="17dp"/>
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/tvNombre"
+            android:text="123"
+            android:textSize="17dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Divición:"
+            android:paddingLeft="16dp"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/textView2"
+            android:textSize="17dp"/>
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/tvApellido"
+            android:text="123"
+            android:textSize="17dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Divición:"
+            android:paddingLeft="16dp"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/textView3"
+            android:textSize="17dp"/>
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/tvEdad"
+            android:text="123"
+            android:textSize="17dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Divición:"
+            android:paddingLeft="16dp"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/textView4"
+            android:textSize="17dp"/>
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/tvSexo"
+            android:text="123"
+            android:textSize="17dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Divición:"
+            android:paddingLeft="16dp"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/textView5"
+            android:textSize="17dp"/>
+
+        <TextView
+            style="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/tvDivicion"
+            android:text="123"
+            android:textSize="17dp"/>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

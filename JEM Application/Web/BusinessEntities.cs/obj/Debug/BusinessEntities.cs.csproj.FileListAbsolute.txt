@@ -1,0 +1,10 @@
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\bin\Debug\BusinessEntities.cs.dll.config
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\bin\Debug\BusinessEntities.cs.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\bin\Debug\BusinessEntities.cs.pdb
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\bin\Debug\EntityFramework.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\bin\Debug\EntityFramework.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\obj\Debug\BusinessEntities.cs.csprojResolveAssemblyReference.cache
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\obj\Debug\BusinessEntities.cs.dll
+C:\Facu\Servicios Web\MVC5 JSON\nuevaPracticaSomee\BusinessEntities.cs\obj\Debug\BusinessEntities.cs.pdb

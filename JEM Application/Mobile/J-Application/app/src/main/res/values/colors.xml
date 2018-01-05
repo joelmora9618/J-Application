@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlueWhite">#D8D4EE</color>
+    <color name="colorGrayWhite">#E1E1E1</color>
+    <color name="colorGrayDark">#999797</color>
+    <color name="colorGreenDark">#22962B</color>
+    <color name="colorBlueLigth">#3BB7E1</color>
+    <color name="colorRed">#DF0606</color>
+    <color name="colorRedLight">#EA4646</color>
+    <color name="colorViolet">#B162EE</color>
+    <color name="colorVioletLight">#C0A8D2</color>
+    <color name="colorOrange">#FF6B0F</color>
+    <color name="colorOrangeDark">#CD5A12</color>
+    <color name="colorOrangeLight">#FF7A17</color>
+    <color name="colorOrangeSuperLight">#FF9347</color>
+    <color name="colorOrangeWhiteL">#ffb480</color>
+    <color name="colorOrangeWhite">#FFD6C1</color>
+
+
+</resources>
